@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SMPL-X Pro Visualizer",
+  "description": "A high-end SMPL-X human body model rendering and parameter editing tool with AI-assisted pose generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
