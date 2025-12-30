@@ -1,5 +1,5 @@
 <div align="center">
-<img width="2069" height="1058" alt="GHBanner" src="https://github.com/3huo/smplx-pose_visulizer/vis.png" /> 
+<img width="2069" height="1058" alt="GHBanner" src="https://github.com/3huo/smplx-pose_visulizer/blob/fb82a5f39b059e68ea321804546c80404cf02497/vis.png" /> 
 </div>
 
 # Run and deploy your AI Studio app
